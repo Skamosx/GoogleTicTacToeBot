@@ -1,0 +1,15 @@
+[0826/222111:ERROR:process_reader_win.cc(114)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[0826/222111:ERROR:exception_snapshot_win.cc(88)] thread ID 4928 not found in process
+[0826/222111:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0828/105538:ERROR:process_reader_win.cc(114)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[0828/105538:ERROR:exception_snapshot_win.cc(88)] thread ID 7636 not found in process
+[0828/105538:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0828/113322:ERROR:process_reader_win.cc(114)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[0828/113322:ERROR:exception_snapshot_win.cc(88)] thread ID 8188 not found in process
+[0828/113322:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0828/113322:ERROR:process_reader_win.cc(114)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[0828/113322:ERROR:exception_snapshot_win.cc(88)] thread ID 6200 not found in process
+[0828/113322:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0828/120136:ERROR:process_reader_win.cc(114)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[0828/120136:ERROR:exception_snapshot_win.cc(88)] thread ID 2148 not found in process
+[0828/120136:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
